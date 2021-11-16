@@ -5,7 +5,7 @@ const CarousalItem = props => {
 
   return (
     <div className="carousal-container">
-      <img src={carousal.imageUrl} alt="offer" className="carousal" />
+      {/* <img src={carousal.imageUrl} alt="offer" className="carousal" /> */}
     </div>
   )
 }
